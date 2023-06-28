@@ -1,7 +1,6 @@
 // backend copy - used in dev only.
 const products = [
   {
-    _id: "1",
     name: "Bar At Folies Bergere",
     image: "/images/A_Bar_at_the_Folies-Bergere-Manet.jpg",
     description:
@@ -14,7 +13,6 @@ const products = [
     numReviews: 1,
   },
   {
-    _id: "2",
     name: "Asakusa Rice Field",
     image: "/images/Asakusa_Rice_Field_During_the_Cock_Festival_at_Otori_Shrine-Hiroshige.jpg",
     description:
@@ -27,7 +25,6 @@ const products = [
     numReviews: 3,
   },
   {
-    _id: "3",
     name: "Jas de Bouffan: The Pool",
     image: "/images/Jas_de_Bouffan_The_Pool-Cezanne.jpg",
     description:
@@ -40,7 +37,6 @@ const products = [
     numReviews: 1,
   },
   {
-    _id: "4",
     name: "Lady with an Ermine",
     image: "/images/Lady_with_an_Ermine-DaVinci.jpg",
     description:
@@ -53,7 +49,6 @@ const products = [
     numReviews: 3,
   },
   {
-    _id: "5",
     name: "The Lute",
     image: "/images/The_Lute-Matisse.jpg",
     description:
@@ -66,7 +61,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: "6",
     name: "The Great Wave Off Kanagawa",
     image: "/images/The_Great_Wave_Off_Kanagawa-Hokusai.jpg",
     description:
